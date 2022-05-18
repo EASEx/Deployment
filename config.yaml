@@ -1,0 +1,11 @@
+nlu:
+  actions: actions.yml
+  rules: rules.yaml
+
+frequency:
+  ping: "30s"
+  action: "10m"
+
+database:
+  sqlite: .temp/ecal.sqlite3
+  badger: .temp/cache
