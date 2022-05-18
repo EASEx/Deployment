@@ -1,0 +1,32 @@
+version: "3.9"
+   
+services:
+  nlu:
+    image: ecal/nlu
+    volumes:
+      - ./data/db:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_DB=postgres
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "8000:8000"
+  r3d:
+    image: ecal/r3d
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - .:/code
+    ports:
+      - "9000:9000"
+
+  proxy:
+    image: ecal/proxy
+    command: ECALProxy -c config.yaml serve
+    volumes:
+      - ./config.yaml:/etc/config.yaml
+    ports:
+      - "7000:7000"
+      
+networks:
+  intranet:
+    driver: bridge
