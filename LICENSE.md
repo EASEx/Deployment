@@ -13,12 +13,12 @@ You acknowledge that ETHZ has all legal rights, title and interest, including in
 ### Open Source License
 If you use the [source form version] or [object form version] of ECAL in whole or in part to develop a code or a derivative work, and you do not commercialize the result in any form, you will be covered under an open source license.
 ECAL is in accordance with Free Software Foundation (FSF)'s open source policy, and is allowed to use it in the appropriate scope and manner, and you must comply with the applicable open source license policy applied to ECAL.
-ECAL is, in principle, subject to GNU General Public License version 3.0(GPLv3). If you have acquired all or a part of the ECAL in any way and it is subject to a license other than the open source license described above, please contact the following address for the technical support and other inquiries before use, and check the usage information.
+ECAL is, in principle, subject to GNU General Public License version 3.0 (GPLv3). If you have acquired all or a part of the ECAL in any way and it is subject to a license other than the open source license described above, please contact the following address for the technical support and other inquiries before use, and check the usage information.
 
 
 ### Technical support and other inquiries
 If you have any questions about licensing and sales of ECAL, and other technical support services, please contact the following:
-* Name: Tanmay Sinha
+* Name: Dr. Tanmay Sinha
 * E-mail: tanmay.sinha@gess.ethz.ch
 
 ### Applicable Licenses
