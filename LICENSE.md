@@ -6,7 +6,7 @@ If you use any or all of ECAL in any form, you are deemed to have consented to t
 
 ### Commercial License
 If you use the [source form version] or [object form version] of ECAL in whole or in part to develop a code or a derivative work, and you want to commercialize the result in some form, you will be covered under a commercial license.
-And if you are subject to a commercial license, you must obtain due permission and a commerical contract from ETHZ. 
+And if you are subject to a commercial license, you must obtain due permission and a commercial contract from ETHZ. 
 You acknowledge that ETHZ has all legal rights, title and interest, including intellectual property rights in the ECAL (regardless of whether such intellectual property rights are registered or where such rights exist) and agree with no objection thereto.
 
 
