@@ -15,12 +15,6 @@ If you use the [source form version] or [object form version] of ECAL in whole o
 ECAL is in accordance with Free Software Foundation (FSF)'s open source policy, and is allowed to use it in the appropriate scope and manner, and you must comply with the applicable open source license policy applied to ECAL.
 ECAL is, in principle, subject to GNU General Public License version 3.0 (GPLv3). If you have acquired all or a part of the ECAL in any way and it is subject to a license other than the open source license described above, please contact the following address for the technical support and other inquiries before use, and check the usage information.
 
-
-### Technical support and other inquiries
-If you have any questions about licensing and sales of ECAL, and other technical support services, please contact the following:
-* Name: Dr. Tanmay Sinha
-* E-mail: tanmay.sinha@gess.ethz.ch
-
 ### Applicable Licenses
 
 __IT IS YOUR OBLIGATION TO READ AND ACCEPT ALL SUCH TERMS AND CONDITIONS PRIOR TO USE OF THIS CONTENT.__
