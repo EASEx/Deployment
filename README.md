@@ -11,7 +11,7 @@ Documentation and tutorials can be found at https://EASEx.github.io.
 
 If you use _EASEx_ in your work and/or publications, we ask you to kindly cite the following work.
 
-Sinha, T., Malhotra, M. 2022. Embodied Agents to Scaffold Data Science Education. _In Proceedings of Artificial Intelligence in Education_
+Sinha, T., & Malhotra, M. 2022. Embodied Agents to Scaffold Data Science Education. _In Proceedings of Artificial Intelligence in Education_
 
 
 ## Contact
