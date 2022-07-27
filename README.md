@@ -4,7 +4,7 @@ We offer _EASEx_ (Embodied Agents to Scaffold Education, _x_ = any data-rich dom
 
 ## Functionality and Use
 
-Documentation and tutorials can be found at https://EASEx.github.io.
+Documentation and tutorials _coming soon_.
 
 
 ## Citation
